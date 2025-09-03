@@ -1,0 +1,1 @@
+export default function Page(){ return (<h1>🏢 Multi-Family Office</h1>); }

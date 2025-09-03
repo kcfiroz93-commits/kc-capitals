@@ -1,0 +1,1 @@
+export default function Page(){ return (<h1>🪙 Vision 2030 Tokens</h1>); }

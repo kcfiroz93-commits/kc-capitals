@@ -1,0 +1,1 @@
+export default function Page(){ return (<h1>🕊 Shahana Foundation</h1>); }

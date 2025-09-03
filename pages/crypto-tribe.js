@@ -1,0 +1,1 @@
+export default function Page(){ return (<h1>🌐 Crypto Tribe LLP</h1>); }
